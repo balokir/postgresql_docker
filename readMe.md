@@ -14,6 +14,6 @@ Data files from PostgreSQL are saved in the db_data folder of the current folder
 
 Change the POSTGRES_MULTIPLE_DATABASES argument in [docker-compose.yml](docker-compose.yml) to generate the list of required databases.
 
-Edit [script](pag-init-scripts\create-multiple-postgresql-databases.sh) if you need additional database setup.
+Edit [script](pg-init-scripts\create-multiple-postgresql-databases.sh) if you need additional database setup.
 
 
